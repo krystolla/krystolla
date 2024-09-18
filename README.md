@@ -2,14 +2,23 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Powershell, VirtualBox, Windows10</b>
   - [Active Directory Home Lab](https://github.com/krystolla/ActiveDirectoryLab)
-  - [Hello World!](https://github.com/krystolla/krystolla)
+- <b>.NET Framework, JWT, Swagger API, SQL, JAVA, C# </b>
+  - [Data Privacy Storage and Encryption Backend Proof of Concept](https://github.com/krystolla/EncryptionPOC)
 
+<h2>👨‍💻 Networks Engineering Projects and Research:</h2>
+
+- <b>AWS, MQTT, Python</b>
+  - [Raspberry Pi-based IoT project](https://github.com/krystolla/IFN649) (Expected Completion: 11 October)
+- <b>Satellite Networks, MATLAB </b>
+  - Integration of LEO Satellite Networks with 5G and 6G Terrestrial Networks (Expected Completion: 26 October)
+ 
 <h2>👨‍💻 Certifications:</h2>
 
   - [Google IT Support Professional](https://github.com/krystolla/krystolla)
 
-<h2>👨‍💻 Software Development Projects:</h2>
+ 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -24,8 +33,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2> 🤳 Connect with me:</h2>
 
