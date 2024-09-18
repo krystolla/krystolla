@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/krystolla/krystolla)
+  - [Active Directory Home Lab](https://github.com/krystolla/ActiveDirectoryLab)
   - [Hello World!](https://github.com/krystolla/krystolla)
 
 <h2>👨‍💻 Certifications:</h2>
