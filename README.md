@@ -2,19 +2,19 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>[American Fuzzy Lop](https://github.com/krystolla/AmericanFuzzyLop)</b>
-  - AFL, Fuzzing
 - <b>[Active Directory Home Lab](https://github.com/krystolla/ActiveDirectoryLab)</b>
   - Powershell, VirtualBox, Windows10
+- <b>[American Fuzzy Lop](https://github.com/krystolla/AmericanFuzzyLop)</b>
+  - AFL, Fuzzing
 - <b>[Data Privacy Storage and Encryption Backend Proof of Concept](https://github.com/krystolla/EncryptionPOC) </b>
   - .NET Framework, JWT, Swagger API, SQL, JAVA, C#
 
 <h2>👩🏻‍💻 Network Projects and Research:</h2>
 
-- <b>[Raspberry Pi-based IoT Health Monitoring System](https://github.com/krystolla/IFN649) (Expected Completion: 26 October)</b>
-  - Raspberry Pi, AWS EC2, MQTT, Python, C++
-- <b>Master’s Thesis: Integration of LEO Satellite Networks with 5G and 6G Terrestrial Networks (Expected Completion: 28 October)</b>
-  - Non-terrestrial networks, O-RAN, Spectrum Sharing, MATLAB 
+- <b>[Raspberry Pi-based IoT Project](https://github.com/krystolla/IFN649) </b>
+  - Raspberry Pi, AWS EC2, MQTT, Python, C++, MAX30102
+- <b>Master’s Thesis: AI-Driven Spectrum Sharing and Edge Computing in NTN-TN Integrated Networks with O-RAN Architecture for 6G and Beyond </b>
+  - Non-terrestrial networks, Satellite network, O-RAN, Spectrum Sharing, Edge computing, AI/ML, MATLAB 
 
 <h2> 🤳 Connect with me:</h2>
 
