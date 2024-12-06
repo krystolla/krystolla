@@ -4,6 +4,8 @@
 
 - <b>[Active Directory Home Lab](https://github.com/krystolla/ActiveDirectoryLab)</b>
   - Powershell, VirtualBox, Windows10
+ - <b>[Splunk SIEM Log Analysis](https://github.com/krystolla/Splunk-SIEM-Log-Analysis)</b>
+   - Splunk, SIEM, HTTP, DNS, FTP, SSH, TUNNEL, SMTP, DHCP
 - <b>[American Fuzzy Lop](https://github.com/krystolla/AmericanFuzzyLop)</b>
   - AFL, Fuzzing
 - <b>[Data Privacy Storage and Encryption Backend Proof of Concept](https://github.com/krystolla/EncryptionPOC) </b>
