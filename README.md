@@ -15,6 +15,8 @@
 
 - <b>[Raspberry Pi-based IoT Project](https://github.com/krystolla/IFN649) </b>
   - Raspberry Pi, AWS EC2, MQTT, Python, C++, MAX30102
+- <b>[XYZ Hospital Network Traffic Analysis](https://github.com/krystolla/WiresharkAnalysis) </b>
+  - Wireshark, ICMP, DDoS
 - <b>Master’s Thesis: AI-Driven Spectrum Sharing and Edge Computing in NTN-TN Integrated Networks with O-RAN Architecture for 6G and Beyond </b>
   - Non-terrestrial networks, Satellite network, O-RAN, Spectrum Sharing, Edge computing, AI/ML, MATLAB 
 
